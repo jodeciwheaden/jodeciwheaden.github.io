@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jodeci Wheaden, Horrible Cop, Launches Site"
+title: "Jodeci Wheaden, Software Engineer, Launches Site"
 date: 2020-05-30
 ---
 
