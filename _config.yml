@@ -1,6 +1,3 @@
-name: Jodeci Wheaden, Horrible Cop
+name: Jodeci Wheaden
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
