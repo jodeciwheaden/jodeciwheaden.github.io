@@ -1,5 +1,7 @@
 # Basic Options
 title: Welcome to Jodeci's Page
+
 markdown: kramdown
 theme: minima
+
 permalink: /blog/:year/:month/:day/:title
